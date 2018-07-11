@@ -1,3 +1,7 @@
+Global HTML5 CSS3 Responsive Template based on  W3CSS framework.   
+
+![screenshot](assets/img/freebiebug-global-screenshot.jpg)
+
 # [Global: HTML5 website template](http://buckymaler.com/global)
 
 ### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
